@@ -1,7 +1,11 @@
 *.class
+*.swp
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata
 
 # Package Files #
 *.jar
